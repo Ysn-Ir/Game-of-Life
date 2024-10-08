@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\ouali\source\repos\game_of_life\game_of_life\main.cpp(42,64): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\ouali\source\repos\game_of_life\game_of_life\main.cpp(42,38): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\ouali\source\repos\game_of_life\game_of_life\main.cpp(45,73): warning C4244: 'argument': conversion from 'float' to 'unsigned __int64', possible loss of data
+C:\Users\ouali\source\repos\game_of_life\game_of_life\main.cpp(45,45): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  game_of_life.vcxproj -> C:\Users\ouali\source\repos\game_of_life\x64\Debug\game_of_life.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
